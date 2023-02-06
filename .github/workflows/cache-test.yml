@@ -14,8 +14,7 @@
 #  limitations under the License.
 #  ====================================================================
 
-name: Synchronise iNaturalist observations to CAMS
-
+name: Test caching of apt and pip
 on:
   workflow_dispatch:
   schedule:
